@@ -1,0 +1,25 @@
+header {
+    background-color: rgb(88, 88, 88);
+}
+.header_col {
+    height: 100px;
+}
+footer {
+    height: 100px;
+    background-color: rgb(88, 88, 88);
+}
+.product-item__block {
+    width: 200px;
+    border: 1px solid rgb(136, 136, 136);
+}
+.product-cart {
+    top: 80px;
+    background: white;
+}
+.product-cart--hidden {
+    display: none;
+}
+.cart-item__img  {
+    width: 100%;
+    max-width: 100px;
+}
